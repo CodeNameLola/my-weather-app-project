@@ -16,7 +16,7 @@ let days = [
   "Wednesday",
   "Thursday",
   "Friday",
-  "Sat",
+  "Saturday",
 ];
 let day = days[now.getDay()];
 
